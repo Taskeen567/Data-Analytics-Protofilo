@@ -1,4 +1,3 @@
-# HR Insights Dashboard (Excel)
 
 ## 📊 Overview
 
@@ -13,17 +12,26 @@ The main objective of this dashboard is to monitor workforce trends such as empl
 The dataset includes:
 
 * Employee ID
-* Department
-* Job Role
-* Salary
-* Gender
-* Tenure
+*Department
+*Salary
+*Performance Score
+*Termination Date
+*Gender
+*Position
+*Recruitment Source
+
+
 
 ## 🧹 Data Cleaning
 
 * Removed duplicate records
-* Handled missing values
-* Standardized data formats using Power Query
+* Fixed incorrect date formats
+*Handled missing values in date fields by creating a helper column and replacing missing values with 0 to ensure data consistency.
+*Identified blank Manager IDs and handled them by creating a helper column and replacing missing values with 0 to ensure data consistency.
+*Verified salary and performance data
+*Created calculated columns
+*Created  measures for KPIs
+*This improved data accuracy and reliability
 
 ## 📊 Analysis & Dashboard
 
@@ -33,7 +41,7 @@ The dataset includes:
 
 ## 📌 Key Insights
 
-* Identified departments with high attrition
+* Identified Performance monitoring
 * Analyzed gender distribution across roles
 * Observed employee tenure trends
 
