@@ -26,12 +26,12 @@ The dataset includes:
 
 * Removed duplicate records
 * Fixed incorrect date formats
-*Handled missing values in date fields by creating a helper column and replacing missing values with 0 to ensure data consistency.
-*Identified blank Manager IDs and handled them by creating a helper column and replacing missing values with 0 to ensure data consistency.
-*Verified salary and performance data
-*Created calculated columns
-*Created  measures for KPIs
-*This improved data accuracy and reliability
+* Handled missing values in date fields by creating a helper column and replacing missing values with 0 to ensure data consistency.
+* Identified blank Manager IDs and handled them by creating a helper column and replacing missing values with 0 to ensure data consistency.
+* Verified salary and performance data
+* Created calculated columns
+* Created  measures for KPIs
+* This improved data accuracy and reliability
 
 ## 📊 Analysis & Dashboard
 
