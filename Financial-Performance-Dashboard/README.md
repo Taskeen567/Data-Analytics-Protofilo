@@ -49,4 +49,5 @@ To monitor financial performance and identify opportunities to improve profitabi
 
 ## Dashboard Preview
 
-(Add Screenshot Here)
+<img width="1012" height="910" alt="Financial Insights" src="https://github.com/user-attachments/assets/d7a0a257-21a0-47d2-8106-ba104f701023" />
+
